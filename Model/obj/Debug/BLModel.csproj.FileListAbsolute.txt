@@ -1,0 +1,6 @@
+C:\Temp\DBFirstMVC\Model\bin\Debug\BLModel.dll
+C:\Temp\DBFirstMVC\Model\bin\Debug\BLModel.pdb
+C:\Temp\DBFirstMVC\Model\obj\Debug\BLModel.csprojResolveAssemblyReference.cache
+C:\Temp\DBFirstMVC\Model\obj\Debug\BLModel.csproj.CoreCompileInputs.cache
+C:\Temp\DBFirstMVC\Model\obj\Debug\BLModel.dll
+C:\Temp\DBFirstMVC\Model\obj\Debug\BLModel.pdb

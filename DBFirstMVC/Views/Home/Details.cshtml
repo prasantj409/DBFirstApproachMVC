@@ -1,0 +1,81 @@
+﻿@model BLModel.EmployeeModel
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>EmployeeModel</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.first_name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.first_name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.last_name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.last_name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.email)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.address_id)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.address_id)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.emp_code)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.emp_code)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Address.city)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Address.city)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Address.state)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Address.state)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Address.country)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Address.country)
+        </dd>
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

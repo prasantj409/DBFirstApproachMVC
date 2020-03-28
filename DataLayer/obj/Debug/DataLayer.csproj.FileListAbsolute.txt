@@ -1,0 +1,14 @@
+C:\Temp\DBFirstMVC\DataLayer\bin\Debug\DataLayer.dll.config
+C:\Temp\DBFirstMVC\DataLayer\bin\Debug\DataLayer.dll
+C:\Temp\DBFirstMVC\DataLayer\bin\Debug\DataLayer.pdb
+C:\Temp\DBFirstMVC\DataLayer\bin\Debug\EntityFramework.dll
+C:\Temp\DBFirstMVC\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Temp\DBFirstMVC\DataLayer\bin\Debug\EntityFramework.xml
+C:\Temp\DBFirstMVC\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Temp\DBFirstMVC\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Temp\DBFirstMVC\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Temp\DBFirstMVC\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+C:\Temp\DBFirstMVC\DataLayer\obj\Debug\DataLayer.dll
+C:\Temp\DBFirstMVC\DataLayer\obj\Debug\DataLayer.pdb
+C:\Temp\DBFirstMVC\DataLayer\bin\Debug\BLModel.dll
+C:\Temp\DBFirstMVC\DataLayer\bin\Debug\BLModel.pdb
